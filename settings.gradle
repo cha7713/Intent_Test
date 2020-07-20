@@ -1,0 +1,2 @@
+rootProject.name='Intent Test'
+include ':app'
